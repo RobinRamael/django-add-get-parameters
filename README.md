@@ -1,4 +1,4 @@
-# django-add-get-param
+# django-add-get-parameters
 
 This small app contains a template tag to add a get parameter to the current url.
 
