@@ -1,13 +1,12 @@
 # -*- coding: utf-8 -*-
 from setuptools import setup, find_packages
 
-long_description = open('README.md').read()
 
 setup(
     name='django-add-get-parameters',
-    version='0.2',
+    version='0.3',
     description='Template tag to add get parameter to the current url.',
-    long_description=long_description,
+    long_description='Template tag to add get parameter to the current url.',
     author='Robin Ramael',
     author_email='robin.ramael@gmail.com',
     url='http://github.com/RobinRamael/django-add-get-parameters',
